@@ -10,3 +10,5 @@ MIT
 Celem tego repozytorium jest zapoznanie sie z gitem.
 
 
+#Autor
+Iza
