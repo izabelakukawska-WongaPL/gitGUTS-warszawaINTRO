@@ -3,7 +3,7 @@ bllksfjsmdsbnsv
 
 #licencja
 
-MIT
+fajnei
 
 # Moje pierwsze repozytorium.
 
