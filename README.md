@@ -3,7 +3,7 @@ bllksfjsmdsbnsv
 
 #licencja
 
-mit2
+ccc
 
 # Moje pierwsze repozytorium.
 
